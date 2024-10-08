@@ -1,0 +1,10 @@
+export { default as HeroSection } from "./HeroSection";
+export { default as AboutSection } from "./AboutSection";
+export { default as ProjectSection } from "./ProjectSection";
+export { default as MoreAboutUs } from "./MoreAboutUs";
+export { default as Testimonials } from "./Testimonials";
+export { default as OurTeam } from "./OurTeam";
+export { default as OneImage } from "./OneImage";
+export { default as BlogSection } from "./BlogSection";
+export { default as ClientLogo } from "./ClientLogo";
+export { default as CounterSection } from "./CounterSection";
