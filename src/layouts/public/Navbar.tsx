@@ -113,7 +113,7 @@ const Navbar = () => {
             <div className="flex items-center  gap-3">
               <MdLocationPin className="text-lg" />
               <p className="text-sm text-gray-200 ">
-                3337, Mancheshwar Industrial Estate, Bhubaneshwar-751010
+                337, Abc Industrial Estate, Odisha-751076
               </p>
             </div>
             <div className="flex gap-6 items-center">
@@ -133,7 +133,7 @@ const Navbar = () => {
         </div>
         <div className="main-container flex justify-between items-center py-3 ">
           <Link href="/">
-            <img src="/Gamma/logo.png" alt="" className=" w-fit h-12" />
+            <h2 className="text-2xl font-bold ">Gamma</h2>
           </Link>
           <div className="flex gap-8">
             {navARR.map((item, i) => (

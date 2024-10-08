@@ -88,7 +88,7 @@ const ResponsiveNavbar = () => {
     <div className="main-container relative flex h-[4.5rem] items-center gap-1 justify-between py-2 shadow">
       <div className="h-full w-full">
         <Link href="/">
-          <img src="/Gamma/logo.png" alt="logo" className="w-fit h-14" />
+          <h2 className="text-xl font-bold text-primary">Gamma</h2>
         </Link>
       </div>
       <div className="flex items-center justify-end gap-1">
@@ -112,7 +112,7 @@ const ResponsiveNavbar = () => {
         <div className="z-20 w-[65vw] overflow-y-auto font-semibold bg-white py-4 px-3">
           <div className="flex w-full justify-start pt-2 pb-4">
             <Link href="/">
-              <img src="/Gamma/logo.png" alt="logo" className="w-fit h-12" />
+              <h2 className="text-xl font-bold text-primary">Gamma</h2>
             </Link>
           </div>
           <hr />

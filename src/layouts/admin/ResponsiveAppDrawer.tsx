@@ -38,7 +38,7 @@ const ResponsiveAppDrawer = ({
         <div
           className={`p-2.5 border-b border-light/30 relative justify-center flex w-full items-center`}
         >
-          <img src="/Gamma/logo.png" alt="logo" className="w-10" />
+          <h2 className="text-xl font-medium">Gamma</h2>
         </div>
 
         <div className="w-full flex flex-col gap-6 pl-4">

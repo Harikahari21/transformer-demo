@@ -34,7 +34,7 @@ const Footer = () => {
         <div className="main-container  grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-8 pb-4 md:pb-8 2xl:pb-12">
           <div className="flex flex-col gap-8">
             <Link href="/">
-              <img src="/Gamma/FooterLogo.png" alt="" className=" w-fit h-12" />
+              <h2 className="text-3xl font-bold text-white">Gamma</h2>
             </Link>
             <p className="text-white">
               A start-up unit of manufacturing transformers in the small to
@@ -75,8 +75,8 @@ const Footer = () => {
               <div className="flex gap-4 items-center">
                 <IoCall className="text-[#605F61] text-xl" />
                 <p className="flex flex-col gap-1 text-gray-300 text-sm ">
-                  <span className="">+91 6742 580 484</span>
-                  <span className="">+91 6742 581 036</span>
+                  <span className="">+91 7899 580 484</span>
+                  <span className="">+91 7899 581 036</span>
                 </p>
               </div>
               <div className="flex gap-4 items-center">
@@ -90,8 +90,8 @@ const Footer = () => {
                 <MdLocationPin className="text-[#605F61] text-xl" />
                 <div className="flex flex-col gap-1 text-gray-300 text-sm ">
                   <p className="flex flex-col">
-                    <span>3337, Mancheshwar Industrial </span>
-                    <span>Estate, Bhubaneshwar-751010</span>
+                    <span>337, Abc Industrial </span>
+                    <span>Estate, Odisha-751076</span>
                   </p>
                 </div>
               </div>
@@ -126,10 +126,7 @@ const Footer = () => {
       <div className="bg-black">
         <div className="main-container">
           <div className="text-sm flex flex-col items-center justify-between text-center lg:flex-row gap-4 py-5 text-white ">
-            <p className=" tracking-wider">
-              © 2021 Gamma Transformer Limited. Designed & Developed by
-              Searching Yard
-            </p>
+            <p className=" tracking-wider">© 2024 Gamma Transformer Limited.</p>
             <div className="flex gap-3 items-center">
               <p>Sitemap</p>
               <p className="w-1 h-1 bg-white rounded-full"></p>

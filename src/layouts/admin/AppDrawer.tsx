@@ -43,7 +43,7 @@ const AppDrawer = ({
         } border-b border-gray-200 relative justify-center flex w-full items-center`}
       >
         <img
-          src="/Gamma/FooterLogo.png"
+          src=""
           alt="logo"
           className={` cursor-pointer ${isAppDrawerOpen ? "w-14" : "w-10"}`}
           onClick={() => push("/admin")}
