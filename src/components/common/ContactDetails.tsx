@@ -7,8 +7,7 @@ const ContactDetails = () => {
   const detailsArray = [
     {
       icon: <MdOutlineLocationOn />,
-      details:
-        " Address: #3337, Mancheswar Industrial Estate, Bhubaneswar, OD 751010",
+      details: " Address: #337, Abc Industrial Estate, Odisha,  751076",
     },
     {
       icon: <BiMobile />,
